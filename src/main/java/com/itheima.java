@@ -7,6 +7,7 @@ public class itheima {
         System.out.println("hello world");
 
         System.out.println("hello xiaojiejie");
+        System.out.println("hello xiaojiejie");
 
     }
 }
